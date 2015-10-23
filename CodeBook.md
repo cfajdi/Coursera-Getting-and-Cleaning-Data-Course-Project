@@ -1,6 +1,4 @@
----
-title: "CodeBook"
----
+# CodeBook
 
 ### 1. Data source
 * Original data was available at the following link: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
