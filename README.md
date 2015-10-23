@@ -1,6 +1,4 @@
----
-title: "Readme"
----
+# Readme
 
 ### Data source
 * Original data was available at the following link: http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
@@ -10,6 +8,12 @@ title: "Readme"
 * Original data set are collected from the accelerometers from the Samsung Galaxy S smartphone for 30 volunteers (subjects) with 6 distinctive activity types (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 * The mean and standard deviation data for all features has been extracted from original data set, along with subject and activity
 * The values shown in the tidy data are the averages of the original values and grouped by activity and subjectid
+
+### Data folder structure
+* Data should be unzipped and save to working directory where R script resides in the following paths:
+wd/getdata_projectfiles_UCI HAR Dataset
+wd/getdata_projectfiles_UCI HAR Dataset/test
+wd/getdata_projectfiles_UCI HAR Dataset/train
 
 ### Script development process
 1. 3 test data sets have been combined together: subject, x, and y
