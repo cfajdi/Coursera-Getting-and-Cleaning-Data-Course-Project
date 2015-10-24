@@ -11,9 +11,9 @@
 
 ### Data folder structure
 * Data should be unzipped and save to working directory where R script resides in the following paths:
-* wd/getdata_projectfiles_UCI HAR Dataset
-* wd/getdata_projectfiles_UCI HAR Dataset/test
-* wd/getdata_projectfiles_UCI HAR Dataset/train
+      + wd/getdata_projectfiles_UCI HAR Dataset
+      + wd/getdata_projectfiles_UCI HAR Dataset/test
+      + wd/getdata_projectfiles_UCI HAR Dataset/train
 
 ### Script development process
 1. 3 test data sets have been combined together: subject, x, and y
